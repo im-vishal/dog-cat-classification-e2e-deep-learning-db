@@ -134,3 +134,5 @@ Email: iamvirtualvishal@gmail.com
     AWS_ECR_LOGIN_URI = demo>>  823558662715.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = catdog
+
+	change
